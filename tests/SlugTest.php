@@ -22,6 +22,7 @@ class SlugTest extends \PHPUnit_Framework_TestCase
             ['в', 'v'],
             ['г', 'g'],
             ['д', 'd'],
+            ['е', 'e'],
             ['ж', 'zh'],
             ['з', 'z'],
             ['и', 'i'],
