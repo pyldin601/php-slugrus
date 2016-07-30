@@ -11,7 +11,7 @@ class SlugTest extends \PHPUnit_Framework_TestCase
      */
     public function testExample($source, $expected)
     {
-        $this->assertEquals($expected, \pldin601\Slugify\slugify($source));
+        $this->assertEquals($expected, \pldin601\Slugrus\slugify($source));
     }
 
     public function dataProvider()

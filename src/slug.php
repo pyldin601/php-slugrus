@@ -1,6 +1,6 @@
 <?php
 
-namespace pldin601\Slugify;
+namespace pldin601\Slugrus;
 
 function slugify($text)
 {

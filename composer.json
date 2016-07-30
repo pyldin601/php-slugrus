@@ -1,6 +1,6 @@
 {
-  "name": "pldin601/slugify",
-  "description": "Cyrillic slug generator",
+  "name": "pldin601/slugrus",
+  "description": "Cyrillic Slug Generator",
   "type": "lib",
   "version": "0.1.0",
   "minimum-stability": "stable",
