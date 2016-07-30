@@ -1,4 +1,4 @@
-# Slugify
+# Slugrus
 
 Cyrillic Slug Generator
 
