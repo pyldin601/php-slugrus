@@ -15,6 +15,7 @@ function slugify($text)
     ];
 
     $text = trim($text);
+    $text = substr($text, 0, 128);
     $text = mb_convert_case($text, MB_CASE_LOWER);
     $text = strtr($text, $translation);
     $text = preg_replace('~(\W+)~', '-', $text);
